@@ -1,11 +1,11 @@
 Model Information:
-* title:	Stadium
-* source:	https://sketchfab.com/3d-models/stadium-0525fcd93d8c4acdbca4dd7be273acbf
-* author:	Vladyslav Holhanov (https://sketchfab.com/vladicom08)
+* title:	Charmander
+* source:	https://sketchfab.com/3d-models/charmander-2637dd2cf8e44d93a05e31d1372039da
+* author:	nguyenlouis32 (https://sketchfab.com/nguyenlouis32)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "Stadium" (https://sketchfab.com/3d-models/stadium-0525fcd93d8c4acdbca4dd7be273acbf) by Vladyslav Holhanov (https://sketchfab.com/vladicom08) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Charmander" (https://sketchfab.com/3d-models/charmander-2637dd2cf8e44d93a05e31d1372039da) by nguyenlouis32 (https://sketchfab.com/nguyenlouis32) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
